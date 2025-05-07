@@ -19,7 +19,7 @@ except ImportError:
     sys.exit(1)
 
 # Import the Darija dictionary
-from darija_dictionary import darija_dict
+from data_set.darija_dictionary import darija_dict
 
 # Configure logging
 logging.basicConfig(
