@@ -33,17 +33,16 @@ cd frontend!
 npm install!
 npm start
 
-[Screenshot (664)](https://github.com/user-attachments/assets/63593434-a0e2-4c62-943b-ec120eb8449a)
-![Screenshot (663)](https://github.com/user-attachments/assets/b60c4e0f-134f-4ec6-a5f1-d1e4f77968b2)
-![Screenshot (662)](https://github.com/user-attachments/assets/c7a75b9c-f8e7-465f-adac-fa70d74b00a2)
-![Screenshot (661)](https://github.com/user-attachments/assets/306d5a44-69a3-4996-a79d-17407798adaf)
-![Screenshot (660)](https://github.com/user-attachments/assets/ba73f12f-6004-424b-89ba-31153feb6456)
-![Screenshot (659)](https://github.com/user-attachments/assets/0951ca54-0699-4453-95dd-0ce6f760a011)
-![Screenshot (658)](https://github.com/user-attachments/assets/caeb2594-f0e3-42a6-9daa-54d659685be2)
-[Uploading Screenshot (657).png…]()
-![Screenshot (656)](https://github.com/user-attachments/assets/d3995562-501b-477b-87ab-02156dd4f1c3)
-![Screenshot (655)](https://github.com/user-attachments/assets/4d0a5c8a-e155-4a48-be58-3e6d337511d9)
-[Uploading Screenshot (654).png…]()
+![Screenshot (664)](https://github.com/user-attachments/assets/ffb85540-d61a-4e48-b849-72776c67b3a9)
+![Screenshot (663)](https://github.com/user-attachments/assets/fdbc0cb2-1763-415f-a22e-aba5df8bc25d)
+![Screenshot (662)](https://github.com/user-attachments/assets/3db9ed91-94f8-41c4-83b7-0bf84d474341)
+![Screenshot (661)](https://github.com/user-attachments/assets/b401e8d0-67a7-46ef-90be-4a9568a7fc09)
+![Screenshot (660)](https://github.com/user-attachments/assets/3ac9c8bd-8ba8-462f-ab97-64f8e56cbd50)
+![Screenshot (659)](https://github.com/user-attachments/assets/f9eaa786-5390-478e-a984-9a026c0892be)
+![Screenshot (658)](https://github.com/user-attachments/assets/2e81c676-4656-40a1-b531-b334ff947086)
+![Screenshot (657)](https://github.com/user-attachments/assets/859a0087-0140-4f1c-8d9f-4bafd972a20b)
+![Screenshot (656)](https://github.com/user-attachments/assets/eaf0f62d-985b-485d-b153-b854d992ed0c)
+
 
 
 📚 Dataset Sources:
