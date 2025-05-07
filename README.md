@@ -1,4 +1,4 @@
-![Screenshot (657)](https://github.com/user-attachments/assets/17fdef92-6eab-4082-8c7d-243fc98ec2f2)![Screenshot (654)](https://github.com/user-attachments/assets/da8247e9-bb7b-4fdd-a4cf-b028f8f2510d)# WANLP Project
+# WANLP Project
 
 🚀 Fake News Detection in Arabic is an AI-powered system designed to identify and analyze fake news in Arabic text. Using Deep Learning (AraBERT, Transformers) and Natural Language Processing (NLP), the system detects unreliable information based on linguistic patterns, sources, and online spread.
 
