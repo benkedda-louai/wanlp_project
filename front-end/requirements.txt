@@ -1,0 +1,14 @@
+streamlit
+requests
+pandas
+plotly
+nltk
+wordcloud
+matplotlib
+seaborn
+numpy
+scikit-learn
+arabic-reshaper
+python-bidi
+google-generativeai
+Pillow
